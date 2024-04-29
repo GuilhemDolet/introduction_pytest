@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.12"
 pytest = "^8.2.0"
 random2 = "^1.0.2"
+coverage = "^7.5.0"
+pytest-cov = "^5.0.0"
 
 
 [build-system]
